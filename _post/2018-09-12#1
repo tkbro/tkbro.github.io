@@ -1,0 +1,15 @@
+---
+title: "Welcome to Jekyll!"
+date: 2018-09-12 01:36:00
+categories: jekyll update
+---
+
+블로그 해보려고 하나 만들어서 
+
+Jekyll also offers powerful support for code snippets:
+
+​```python
+def print_hi(name):
+  print("hello", name)
+print_hi('Tom')
+​```
